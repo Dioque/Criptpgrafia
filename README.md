@@ -1,7 +1,7 @@
-# Criptpgrafia em Rust
+# Criptpgrafia
 
 ## Sobre o Projeto
-Este projeto foi desenvolvido com o objetivo de aprendizado e aprimoramento de habilidades em Rust. O foco é a implementação de um sistema de criptografia que permite ao usuário criptografar e descriptografar mensagens de forma segura, sem o uso de bibliotecas externas.
+Este projeto foi desenvolvido com o objetivo de aprendizado e aprimoramento de habilidades em Rust. O foco é a implementação de um sistema de criptografia que permite ao usuário criptografar e descriptografar mensagens de forma segura.
 
 ## Funcionalidades
 - Criptografar mensagens
@@ -11,22 +11,28 @@ Este projeto foi desenvolvido com o objetivo de aprendizado e aprimoramento de h
 ## Tecnologias Utilizadas
 - **Linguagem:** Rust
 
-## Como Executar
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/Criptpgrafia-Rust.git
+## Como Usar
+Este projeto foi desenvolvido como uma biblioteca Rust (crate) para ser utilizada em outras aplicações. Para utilizá-la, siga os passos abaixo:
+
+1. Adicione este repositório ao seu `Cargo.toml` como dependência:
+   ```toml
+   [dependencies]
+   criptpgrafia_rust = { git = "https://github.com/Dioque/Criptpgrafia.git" }
    ```
-2. Acesse o diretório do projeto:
-   ```sh
-   cd Criptpgrafia-Rust
-   ```
-3. Compile o projeto:
-   ```sh
-   cargo build
-   ```
-4. Execute a aplicação:
-   ```sh
-   cargo run
+
+2. Importe a biblioteca no seu código Rust:
+   ```rust
+   use criptpgrafia::{criptografar, descriptografar};
+
+   fn main() {
+       let mensagem = "Olá, mundo!";
+       let chave = "minha_senha";
+       let criptografado = criptografar(mensagem, chave);
+       let descriptografado = descriptografar(&criptografado, chave);
+
+       println!("Mensagem criptografada: {}", criptografado);
+       println!("Mensagem descriptografada: {}", descriptografado);
+   }
    ```
 
 ## Contribuição
