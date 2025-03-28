@@ -1,16 +1,15 @@
 # Criptpgrafia em Rust
 
 ## Sobre o Projeto
-Este projeto foi desenvolvido com o objetivo de aprendizado e aprimoramento de habilidades em Rust. O foco é a implementação de um sistema de criptografia que permite ao usuário criptografar e descriptografar mensagens de forma segura.
+Este projeto foi desenvolvido com o objetivo de aprendizado e aprimoramento de habilidades em Rust. O foco é a implementação de um sistema de criptografia que permite ao usuário criptografar e descriptografar mensagens de forma segura, sem o uso de bibliotecas externas.
 
 ## Funcionalidades
 - Criptografar mensagens
 - Descriptografar mensagens
-- Utilizar algoritmos seguros para proteção dos dados
+- Implementação própria dos algoritmos de criptografia
 
 ## Tecnologias Utilizadas
 - **Linguagem:** Rust
-- **Bibliotecas:** (inserir bibliotecas utilizadas, como `crypto` ou `ring`)
 
 ## Como Executar
 1. Clone este repositório:
