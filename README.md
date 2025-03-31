@@ -17,7 +17,7 @@ Este projeto foi desenvolvido como uma biblioteca Rust (crate) para ser utilizad
 1. Adicione este repositório ao seu `Cargo.toml` como dependência:
    ```toml
    [dependencies]
-   criptpgrafia_rust = { git = "https://github.com/Dioque/Criptpgrafia.git" }
+   criptpgrafia = { git = "https://github.com/Dioque/Criptpgrafia.git" }
    ```
 
 2. Importe a biblioteca no seu código Rust:
