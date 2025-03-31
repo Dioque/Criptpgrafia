@@ -6,8 +6,35 @@
 
 
 
+Algo talvez apra deixa o codigo seguro é bom usar o "ofuscar codigo" um cara no discord me passo um curso muito top no telegram o nome do cara é "Eu esqueci casei e nao achei mais no telegram é " - > "@Professor Dev" ele me passo um curso de 1.2gb chamado ARM Pro Source Code.zip
 
-    cada lado do tece
+    Consegui informaçoes no servido "Buteco dos Devs" - (Coloquei pois eles me passarão informacoes importante) - se nao me engano foi o "Miranda que me passo essas informaçoes"
+    la eles me diseram para pesquisar sobre ("algoritmo de criptografia Tesserato", "criptografia de reticulo", "fractais", "combinação linear", "espaço vetorial", "teoria dos numero", "Álgebra de Lie")
+
+tambem o Therian Byte me mando algo apra eu estuda tambem chamado ("Reticulado")
+
+o professor do guiipedroso me passo um livro que o professor dele escreveu tambem ("https://www.amazon.com.br/Criptografia-para-Todos-Jiyan-Yari/dp/6558873672/ref=sr_1_3?adgrpid=110598946001&hvadid=457824596828&hvdev=c&hvlocphy=9047753&hvnetw=g&hvqmt=e&hvrand=7708262010087176115&hvtargid=kwd-1186687545081&hydadcr=5655_11235215&sr=8-3")
 
 
-    Consegui informaçoes no servido "Buteco dos Devs" - 
+    Curso de aritimetica importante para compreender oque vai ser falado - https://www.youtube.com/watch?v=TazceeLIF4k&list=PLrVGp617x0hC8WkPHtM3IjoOiiyJs-hHh (Canal: Programa de Iniciação Cientifica da OBMEP)
+
+Entender como a criptografia funciona tambem é importante (https://www.youtube.com/watch?v=XSJLyK9LlnY) - A matemática genial da criptografia moderna
+
+
+me passaram tambem um site apra eu der uma olhada ainda não sei apra quer serve mais esse aqui é o site "https://cryptohack.org/"
+
+
+
+tambem tem ums livro sobre criptografia no meu repositorio do github (Livro)
+
+
+
+Aqui esta uma versão de eu tentando explicar como esta funcionado e como é a logica de como ela funciona
+
+**"O Tesseract é formado por dois cubos: um interno e um externo. Além disso, possui quatro formas que chamaremos de (D). Quando uma das faces do cubo interno toma posição, ela substitui a face correspondente do cubo externo, e a face que estava naquela posição se move para outro lugar.
+
+Cada forma (D) é composta por dois quadrados: um maior, pertencente ao cubo externo, e um menor, pertencente ao cubo interno. Os vértices desses quadrados são conectados de maneira correspondente, ou seja, o vértice A do quadrado menor se liga ao vértice A do quadrado maior, assim como ocorre com os vértices B, C e D."**
+
+
+
+Basicamente é vou usar as trocas dessas fase e seus comportamentos e sua compossição e tambem suas propriedades, vou da nome possição a cada uma e atribuir uma chave de criptografia que basenado que cada uma representa 1 ou 0, pode fazer e cada possição que for trocado as fase vai influencia em todo o teseract mudando toda a estruturar dos 1 e 0 
