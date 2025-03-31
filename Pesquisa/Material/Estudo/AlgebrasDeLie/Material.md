@@ -4,20 +4,20 @@
 Antes de entrar nas Álgebras de Lie, é essencial entender **vetores e matrizes**.
 
 ### **Tópicos a estudar:**
-- **Vetores**: Soma, multiplicação por escalar.
-- **Matrizes**: Operações básicas (soma, multiplicação).
-- **Determinante e Traço**.
-- **Espaços Vetoriais**.
-- **Autovalores e Autovetores**.
-- **Matriz Exponencial**.
+- **Vetores**: O que são, soma de vetores, multiplicação por escalar.
+- **Matrizes**: O que são, operações básicas (soma, multiplicação).
+- **Determinante e Traço**. Medem propriedades importantes das matrizes.
+- **Espaços Vetoriais**: Conjuntos de vetores que seguem certas regras.
+- **Autovalores e Autovetores**: Importantes para entender como matrizes se transformam.
+- **Matriz Exponencial**: Base para entender exponencial de operadores, essencial nas Álgebras de Lie.
 
 ### **Materiais recomendados:**
-- 📖 [Livro Gratuito: Álgebra Linear – Uma Abordagem Elementar](https://www.dm.ufscar.br/profs/crispim/downloads/Livro_AlgebraLinear_Antonio.pdf)
-- 🎥 [Playlist de Álgebra Linear – Universidade Falada](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEXxlXGBtgtua5UvN5V64vY)
+- 📖 [Livro: ld4 Álgebra Linear Jeronimo c. Pellegrini](/Pesquisa/Material/Estudo/AlgebrasDeLie/ld4_Álgebra-linear_Jeronimo-c-pellegrini.pdf)
+- 🎥 [Playlist de Álgebra Linear – Professor Alê](https://youtube.com/playlist?list=PLO3hBdfBc4pFef1zn1oZyYXLomL9MiX-C&si=oB2HvQNd8_WUJYYd)
 - 🖥️ [Curso Online Gratuito – Khan Academy](https://pt.khanacademy.org/math/linear-algebra)
 
 ## **2️⃣ Cálculo Diferencial** (Importante 📉)
-Ajuda a entender transformações contínuas e pequenas variações.
+Aqui entra a ideia de transformação contínua e como pequenas variações afetam um sistema.
 
 ### **Tópicos a estudar:**
 - **Derivadas**.

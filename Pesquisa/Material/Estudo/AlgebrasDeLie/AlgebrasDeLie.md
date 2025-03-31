@@ -1,14 +1,3 @@
-# 🔷 Roteiro para Aprender Álgebras de Lie
-
-## **1️⃣ Álgebra Linear** (Fundamental 🚀)
-Antes de entrar nas Álgebras de Lie, você precisa entender **vetores e matrizes**, pois a maioria dos exemplos e aplicações envolve esses conceitos.
-
-- **Vetores**: O que são, soma de vetores, multiplicação por escalar.
-- **Matrizes**: O que são, operações básicas (soma, multiplicação).
-- **Determinante e Traço**: Medem propriedades importantes das matrizes.
-- **Espaços Vetoriais**: Conjuntos de vetores que seguem certas regras.
-- **Autovalores e Autovetores**: Importantes para entender como matrizes se transformam.
-- **Matriz Exponencial**: Base para entender exponencial de operadores, essencial nas Álgebras de Lie.
 
 ## **2️⃣ Cálculo Diferencial** (Importante 📉)
 Aqui entra a ideia de transformação contínua e como pequenas variações afetam um sistema.
