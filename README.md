@@ -1,4 +1,4 @@
-# 🔐 Pesquisa em Criptografia com Tesseract
+# 🔐 Pesquisa em Criptografia com Tesseract - Projeto
 
 ## 📌 Sobre a Pesquisa
 Este repositório contém materiais de estudo e desenvolvimento para uma pesquisa sobre criptografia baseada em transformações do **Tesseract**. O objetivo principal é explorar como as trocas de faces e suas propriedades geométricas podem ser aplicadas para criar um sistema de criptografia inovador. A pesquisa ainda está em andamento e servirá como base para o desenvolvimento de um futuro projeto.
