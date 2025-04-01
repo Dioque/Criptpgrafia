@@ -1,15 +1,7 @@
-1 - Criar uma chave privada (Longa - 1s e 0s).
-2 - criar um sistema de codificação de texto.
-2 - Criar uma mensagem secreta > Converter em uma sequencia de (1s e 0s) usando o sistema de de codificação de texto.
-3 - Garantir que a mensagem secretar criada é do tamanho exatos de (0s e 1s) da chave privada.
-    (Caso a mensagem secreta tenha menos (0s e 1s) do que a chave privada, deves complementar com sequencias de (0s e 1s) de forma aleatoria).
-
-
-
 Algo talvez apra deixa o codigo seguro é bom usar o "ofuscar codigo" um cara no discord me passo um curso muito top no telegram o nome do cara é "Eu esqueci casei e nao achei mais no telegram é " - > "@Professor Dev" ele me passo um curso de 1.2gb chamado ARM Pro Source Code.zip
 
     Consegui informaçoes no servido "Buteco dos Devs" - (Coloquei pois eles me passarão informacoes importante) - se nao me engano foi o "Miranda que me passo essas informaçoes"
-    la eles me diseram para pesquisar sobre ("algoritmo de criptografia Tesserato", "criptografia de reticulo", "fractais", "combinação linear", "espaço vetorial", "teoria dos numero", "Álgebra de Lie")
+    la eles me diseram para pesquisar sobre ("algoritmo de criptografia Tesserato", "criptografia de reticulo", "fractais", "combinação linear",)
 
 tambem o Therian Byte me mando algo apra eu estuda tambem chamado ("Reticulado")
 
